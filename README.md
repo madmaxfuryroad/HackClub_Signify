@@ -4,4 +4,4 @@ Currently, SIGNify is developing Python Program that is able to take camera inpu
 
 
 1. INSTALL PYTHON 3.10
-2. Head over to the releases tab on the right for the complete steps.
+2. Head over to the Releases tab for the complete steps.
